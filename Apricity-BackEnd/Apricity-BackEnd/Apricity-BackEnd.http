@@ -1,0 +1,6 @@
+@Apricity_BackEnd_HostAddress = http://localhost:5213
+
+GET {{Apricity_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
