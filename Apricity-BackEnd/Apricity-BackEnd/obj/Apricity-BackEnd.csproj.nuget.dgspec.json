@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-Full-Project\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj": {
+    "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-Full-Project\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-Full-Project\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj",
         "projectName": "Apricity-BackEnd",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-Full-Project\\Apricity-BackEnd\\Apricity-BackEnd\\Apricity-BackEnd.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-BackEnd\\Apricity-BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\MASTER-APRICITY\\Apricity-Full-Project\\Apricity-BackEnd\\Apricity-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Orange\\AppData\\Roaming\\NuGet\\NuGet.Config",
