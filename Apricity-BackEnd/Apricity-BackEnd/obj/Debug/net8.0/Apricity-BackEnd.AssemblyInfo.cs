@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apricity-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc0663e47edd045554caccd8b27cc61ad142816")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f713a3613e81d51180b3c2713d177643018502ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apricity-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apricity-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
